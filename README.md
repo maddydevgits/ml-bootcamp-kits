@@ -18,6 +18,14 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 5. MQTT Protocol
 6. MQTT Protocol Implementation on Google Colab
 
+<b> Day - 2</b>
+
+1. git Commands Practice
+2. mongodb Software Installation
+3. mongodb commands
+4. mongodb python script to store and read data
+5. Introduction to Machine Learning
+
 # Softwares
 1. git (<a href="https://git-scm.com/download/win">Click Here to download </a>)
 2. Google Colab (<a href="https://colab.research.google.com">Click Here to access </a>)
