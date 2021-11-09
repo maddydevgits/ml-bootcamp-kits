@@ -25,4 +25,4 @@ Madblocks Academy's one-week Machine Learning Bootcamp organised by Department o
 https://www.hackerrank.com/day2-ml-bootcamp-kits
 
 # Contact
-Reach me on LinkedIn (<a href="">Maddy </a>)
+Reach me on LinkedIn (<a href="https://www.linkedin.com/in/madhupiot/" target="_blank">Maddy </a>)
