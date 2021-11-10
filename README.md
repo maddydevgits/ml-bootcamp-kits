@@ -26,6 +26,12 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 4. mongodb python script to store and read data
 5. Introduction to Machine Learning
 
+<b> Day - 3</b>
+
+1. git Commands Practice
+2. Data Pre-Processing Template
+3. Salary Prediction using Simple Linear Regression
+
 # Softwares
 1. git (<a href="https://git-scm.com/download/win">Click Here to download </a>)
 2. Google Colab (<a href="https://colab.research.google.com">Click Here to access </a>)
