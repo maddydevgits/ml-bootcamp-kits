@@ -32,6 +32,11 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 2. Data Pre-Processing Template
 3. Salary Prediction using Simple Linear Regression
 
+<b> Day - 4</b>
+1. Flask Template
+2. Deployment of Salary Prediction System
+3. Profit Prediction System usig Multiple Linear Regression
+
 # Softwares
 1. git (<a href="https://git-scm.com/download/win">Click Here to download </a>)
 2. Google Colab (<a href="https://colab.research.google.com">Click Here to access </a>)
