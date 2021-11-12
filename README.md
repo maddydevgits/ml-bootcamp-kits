@@ -35,7 +35,13 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 <b> Day - 4</b>
 1. Flask Template
 2. Deployment of Salary Prediction System
-3. Profit Prediction System usig Multiple Linear Regression
+3. Startup Profit Prediction System usig Multiple Linear Regression
+
+<b> Day - 5 </b>
+1. IBM Certification Exam
+2. Salary Estimation using Polynomial Regression
+3. Social Networking Advertisement Analysis using Logistic Regression
+4. Crop Prediction System using KNN Classification
 
 # Softwares
 1. git (<a href="https://git-scm.com/download/win">Click Here to download </a>)
