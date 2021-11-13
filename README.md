@@ -43,6 +43,13 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 3. Social Networking Advertisement Analysis using Logistic Regression
 4. Crop Prediction System using KNN Classification
 
+<b> Day - 6 </b>
+1. madBlocks Git Certification Exam
+2. Health Analyser using Machine Learning Model
+3. Deployment on Heroku - Salesforce Platform
+4. Supervised and Unsupervised Machine Learning Models
+5. Mobile App for Machine Learning
+
 # Softwares
 1. git (<a href="https://git-scm.com/download/win">Click Here to download </a>)
 2. Google Colab (<a href="https://colab.research.google.com">Click Here to access </a>)
